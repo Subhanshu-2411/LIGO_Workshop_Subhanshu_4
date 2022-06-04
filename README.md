@@ -18,7 +18,7 @@ Goal of this training is to develop a shifumi game with smart contract. You will
 
 ## Remote execution
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ligolang/jsligo-training-dapp-shifumi)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Subhanshu-2411/LIGO_Workshop_Subhanshu_4)
 
 ## Local execution
 
